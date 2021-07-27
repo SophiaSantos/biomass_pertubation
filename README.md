@@ -14,5 +14,8 @@ For a given factor, the tool changes the coefficient of each macromolecule or bu
 ### Outputs:
 For each sensitivity factor a wild-type simulation is performed and the specific growth rate and the flux distribution of all reactions retrieved.
 
+### Pre-requisites
+Git and JDK 8 update 20 or later
+
 ### References
-Rocha I. , Maia P., Evangelista P., Vilaça P., Soares S., Pinto J. P., Nielsen J., Patil K. R., Ferreira E. C., Rocha M. (2010) *OptFlux: an open-source software platform for in silico metabolic engineering*.BMC Systems Biology. 4:45;
+Rocha I. , Maia P., Evangelista P., Vilaça P., Soares S., Pinto J. P., Nielsen J., Patil K. R., Ferreira E. C., Rocha M. (2010) *OptFlux: an open-source software platform for in silico metabolic engineering*.BMC Systems Biology. 4:45.
